@@ -14,6 +14,11 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
 
 
+### GitHub
+[![Github stats](https://github-readme-stats.vercel.app/api?username=tareun3406&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/congchu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tareun3406&layout=compact&theme=algolia)](https://github.com/congchu/github-readme-stats)
+
+
 <!--
 **Tareun3406/Tareun3406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
