@@ -13,10 +13,16 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
 
+### Education
+<a href="https://hhpluscertificateofcompletion.oopy.io/">
+  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_black.svg" />
+</a>
+
 
 ### GitHub
 [![Github stats](https://github-readme-stats.vercel.app/api?username=tareun3406&show_icons=true&theme=algolia&include_all_commits=true&count_private=true")](https://github.com/congchu/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tareun3406&layout=compact&theme=algolia)](https://github.com/congchu/github-readme-stats)
+
 
 
 <!--
